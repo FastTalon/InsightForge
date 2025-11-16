@@ -11,8 +11,6 @@ Original file is located at
 This Colab notebook installs dependencies, configures API keys via Colab Secrets, creates sample business data, writes the `InsightForge.py` Streamlit app file, and launches the app via ngrok.
 """
 
-pip install -q streamlit pyngrok pandas openpyxl matplotlib langchain langchain-openai langchain-groq "langchain-community" pypdf faiss-cpu sentence-transformers langchain-experimental
-
 # --- SECRETS LOADING FOR STREAMLIT CLOUD ---
 # We populate os.environ from Streamlit's secrets for LangChain compatibility.
 
