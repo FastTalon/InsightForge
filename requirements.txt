@@ -1,5 +1,4 @@
 streamlit
-pyngrok
 pandas
 openpyxl
 matplotlib
@@ -11,3 +10,5 @@ pypdf
 faiss-cpu
 sentence-transformers
 langchain-experimental
+# pyngrok is no longer needed, but if you want to keep the package list intact:
+# pyngrok
