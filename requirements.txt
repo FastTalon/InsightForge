@@ -1,0 +1,15 @@
+streamlit
+pandas
+openpyxl
+matplotlib
+langchain==0.2.11
+langchain-openai
+langchain-groq
+langchain-community
+langchain-experimental
+langchain-text-splitters
+pypdf
+faiss-cpu
+sentence-transformers
+tabulate
+
